@@ -1,8 +1,6 @@
-<p>
+https://user-images.githubusercontent.com/125651843/229267048-89ad04b9-3d01-4ebb-99dc-d49a9d695e40.mp4
 
-  <img src = "https://user-images.githubusercontent.com/125651843/229266396-10058bdb-2127-4bc1-a119-6770bf4e10ec.mp4" width=20% height=40%>
-  
-</p>
+
 
 
 
