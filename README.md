@@ -1,16 +1,8 @@
-# browser_provider
+<p>
 
-A new Flutter project.
+  <img src = "https://user-images.githubusercontent.com/125651843/229266396-10058bdb-2127-4bc1-a119-6770bf4e10ec.mp4" width=20% height=40%>
+  
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
